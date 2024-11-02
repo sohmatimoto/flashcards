@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que e JavaScript?',
-    'O JavaScript  é uma linguagem e programação.'
+    'Química',
+    'Qual é a fórmula química da água?',
+    'H₂O'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual é a capital da França?',
-    'A capital da França é Paris'
+    'Bíblia',
+    'Quantos livros há na Bíblia?',
+    '66 livros'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma Função',
-    'Uma função é um bloco codigo que executa alguma tarefa'
+    'Arte',
+    'Quem pintou a obra Mona Lisa?',
+    'Leonardo da Vinci'
 )
 
 criaCartao(
-    'Lingua Inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em inglês é HI (RAI).'
+    'História',
+    'Em que ano o homem pisou na Lua pela primeira vez?',
+    '1969'
 )
